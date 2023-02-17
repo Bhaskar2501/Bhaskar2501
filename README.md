@@ -20,13 +20,13 @@
   <a href="https://www.instagram.com/bhaskar__jaiswal/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-	<a href="https://www.linkedin.com/in/utkarshkumar3128/">
+	<a href="https://www.linkedin.com/in/bhaskar-jaiswal-728579203/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<!-- <a href="https://twitter.com/utkarshcr73128">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
-  <a href="https://www.facebook.com/profile.php?id=100012449179011">
+  <a href="https://www.facebook.com/bhaskar0125jaiswal/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 <!--  </p> -->
