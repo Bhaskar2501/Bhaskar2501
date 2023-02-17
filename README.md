@@ -50,8 +50,8 @@
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar2501&show_icons=true&locale=en&layout=compact&theme=radical" alt="utkarsh3128"/></p>
 
 <p align="center">
-        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhaskar2501&show_icons=true&theme=tokyonight" alt="utkarsh3128" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2501&&theme=radical" alt="utkarsh3128" />
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhaskar2501&show_icons=true&theme=merko" alt="utkarsh3128" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2501&&theme=tokyonight" alt="utkarsh3128" />
 </p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh3128&show_icons=true&theme=radical) -->
 
